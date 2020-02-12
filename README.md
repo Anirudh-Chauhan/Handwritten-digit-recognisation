@@ -1,2 +1,2 @@
 # Handwritten-digit-recognisation
-MNIST data set 
+This repository contains all the ways I had practiced on recognising the hand-written digits trained over MNIST dataset.
